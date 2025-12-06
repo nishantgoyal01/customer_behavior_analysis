@@ -7,78 +7,75 @@ The goal is to showcase strong analytical thinking, data cleaning skills, SQL pr
 
 ### 📂 Dataset
 
-Source: Public/open-source dataset or company-provided dataset
-
-Format: .csv / .xlsx
-
-Size: Mention number of rows & columns
-
-Contains fields such as:
-
-Customer / product / transaction / demographic data
-
-Numerical & categorical variables
-
-Time-series or log information (if applicable)
+- **Source:** Public/open-source dataset or company-provided dataset
+- **Format:** .csv / .xlsx
+- **Size:** Mention number of rows & columns
+- **Contains fields such as:**
+  - Customer / product / transaction / demographic data
+  - Numerical & categorical variables
+  - Time-series or log information (if applicable)
+ 
 
 ### 🛠️ Tools & Technologies
-Category	Tools
-Programming	Python (Pandas, NumPy, Matplotlib/Seaborn)
-Database	PostgreSQL / MySQL / SQL Server
-Visualization	Power BI Desktop
-Reporting	Gamma (AI-powered presentations)
-Environment	Jupyter Notebook / VS Code
+| Category      | Tools                                      |
+| ------------- | ------------------------------------------ |
+| Programming   | Python (Pandas, NumPy, Matplotlib/Seaborn) |
+| Database      | PostgreSQL / MySQL / SQL Server            |
+| Visualization | Power BI Desktop                           |
+| Reporting     | Gamma (AI-powered presentations)           |
+| Environment   | Jupyter Notebook / VS Code                 |
+
 ### 🔍 Project Steps
 1️⃣ **Load Dataset in Python**
 
--Import dataset using Pandas  
--Check structure, data types, missing values  
--Generate initial summaries  
+- Import dataset using Pandas  
+- Check structure, data types, missing values  
+- Generate initial summaries  
 
 2️⃣ **Exploratory Data Analysis (EDA)**
 
--Distribution analysis  
--Correlation heatmaps  
--Outlier detection  
--Trend and pattern identification  
--Visualizations for key metrics  
+- Distribution analysis  
+- Correlation heatmaps  
+- Outlier detection  
+- Trend and pattern identification  
+- Visualizations for key metrics  
 
 3️⃣**Data Cleaning & Preprocessing**
 
--Handling missing values  
--Removing duplicates  
--Fixing inconsistent formatting  
--Feature engineering (if required)  
--Exporting clean data file for SQL & Power BI  
+- Handling missing values  
+- Removing duplicates  
+- Fixing inconsistent formatting  
+- Feature engineering (if required)  
+- Exporting clean data file for SQL & Power BI  
 
 4️⃣ **SQL Analysis**
 
 Performed using PostgreSQL/MySQL/SQL Server:  
 
--Import cleaned dataset into database  
--Run analytical queries:  
-  -Filtering & aggregation  
-  -Joins (INNER, LEFT, RIGHT)  
-  -Window functions  
-  -CTEs, Subqueries  
--Extracting business insights from SQL results  
+- Import cleaned dataset into database  
+- Run analytical queries:  
+  - Filtering & aggregation  
+  - Joins (INNER, LEFT, RIGHT)  
+  - Window functions  
+  - CTEs, Subqueries  
+- Extracting business insights from SQL results  
 
 5️⃣ **Build Power BI Dashboard**
 
--Load final cleaned dataset into Power BI  
--Create interactive visuals:  
-  -KPIs  
-  -Trend charts  
-  -Bar/line charts  
-  -Slicers/filters  
--Build an insights-driven dashboard for business users  
--Publish final dashboard (optional)  
+- Load final cleaned dataset into Power BI  
+- Create interactive visuals:  
+  - KPIs  
+  - Trend charts  
+  - Bar/line charts  
+  - Slicers/filters  
+- Build an insights-driven dashboard for business users  
+- Publish final dashboard (optional)  
 
 6️⃣ **Insights Report & Presentation**
 
--Summarize findings from Python, SQL & Power BI  
--Highlight key trends and actionable insights  
--Design a clean, professional PPT using Gamma  
+- Summarize findings from Python, SQL & Power BI  
+- Highlight key trends and actionable insights  
+- Design a clean, professional PPT using Gamma  
 
 ### 📈 Dashboard (Preview)
 
@@ -87,10 +84,10 @@ Performed using PostgreSQL/MySQL/SQL Server:
 
 ### 📊 Key Results / Insights
 
--Identified major trends and patterns in the dataset  
--Highlighted top KPIs (e.g., sales growth, customer segments, product performance)  
--Detected bottlenecks, anomalies, or improvement opportunities  
--Created a visual analytics dashboard to support decision-making  
+- Identified major trends and patterns in the dataset  
+- Highlighted top KPIs (e.g., sales growth, customer segments, product performance)  
+- Detected bottlenecks, anomalies, or improvement opportunities  
+- Created a visual analytics dashboard to support decision-making  
 
 ### ▶️ How to Run This Project
 **1. Clone the repository**
@@ -122,11 +119,11 @@ Customer Behavior Dashboard.pbix
 
 **6. View the Presentation** (Made by Gamma)
 
-Open the folder:
-
-presentation/
+Open the file:  
+**Customer-Shopping-Behavior-Analysis.pptx**
 
 
 ### 📬 Contact
 
-If you’d like to discuss this project or opportunities, feel free to connect.
+If you’d like to discuss this project or opportunities, feel free to connect.  
+**Email: nishantgoyal010@gmail.com**
