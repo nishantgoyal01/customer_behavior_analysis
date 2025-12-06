@@ -122,8 +122,8 @@ Created a visual analytics dashboard to support decision-making
 
 ### ▶️ How to Run This Project
 **1. Clone the repository**
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/nishantgoyal01/customer_behavior_analysis.git
+cd customer_behavior_analysis
 
 **2. Install Python dependencies**
 pip install -r requirements.txt
